@@ -1,7 +1,5 @@
 ### Hello World 👋
-I am a Front-end Developer from Mumbai.
-🌱 self-taught learner, seeking to launch a career building web applications and services using front-end skills like HTML, CSS, JavaScript, Bootstrap.
-
+I am a React & JavaScript Developer with 3+ years of experience building component-based UI, scalable frontend architecture, and secure backend integrations. Known for leading large-scale revamps (200+ pages for Banking Website) and maintaining high-traffic websites (1500+ pages). Passionate about clean code, cross-functional collaboration, and performance-focused development using React.js, JavaScript, Node.js, and MySQL.
 
 <br>
 ## Connect with me
